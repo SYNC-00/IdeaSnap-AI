@@ -46,13 +46,13 @@
 
 # 📬 **Sample Output-**
 
-# !\[Form Screenshot](screenshots/form.png)
+# !\[Form Screenshot](form.png)
 
-# !\[Email Output](screenshots/Email1.png)
+# !\[Email Output](Email1.png)
 
-# !\[Email Output](screenshots/Email2.png)
+# !\[Email Output](Email2.png)
 
-# !\[Email Output](screenshots/Email3.png)
+# !\[Email Output](Email3.png)
 
 # 
 
